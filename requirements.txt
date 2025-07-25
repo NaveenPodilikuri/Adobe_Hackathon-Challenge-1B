@@ -1,0 +1,4 @@
+PyMuPDF==1.22.5
+transformers==4.40.1
+sentence-transformers==2.2.2
+scikit-learn==1.4.0

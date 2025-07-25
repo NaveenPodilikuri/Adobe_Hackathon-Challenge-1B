@@ -1,0 +1,511 @@
+{
+  "metadata": {
+    "input_documents": [
+      "The Ultimate PDF Sharing Checklist.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf"
+    ],
+    "persona": "HR Professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance"
+  },
+  "extracted_sections": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Page 3",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Page 7",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 1,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Page 7",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Page 10",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Page 10",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Page 10",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Page 18",
+      "importance_rank": 1,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Page 8",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Page 15",
+      "importance_rank": 1,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Page 3",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Page 20",
+      "importance_rank": 2,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Page 30",
+      "importance_rank": 3,
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page 15",
+      "importance_rank": 3,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Page 6",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Page 6",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Page 7",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Page 21",
+      "importance_rank": 1,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Page 28",
+      "importance_rank": 2,
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Page 27",
+      "importance_rank": 3,
+      "page_number": 27
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": " The Ultimate PDF Sharing Checklist will ensure you cover all the bases with Adobe Acrobat . Share PDFs via email, link, or a third-party app like Microsoft Teams or WhatsApp . Set Permissions, customize your message and customise your message .",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": " Share PDFs with Adobe Acrobat is straightforward and efficient, whether you're working on a general project or managing real estate documents . Follow these checklists to ensure that your sharing process is smooth and professional .",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": " Real Estate Professionals need to share documents efficiently to close deals and keep clients informed . Here's a tailored checklist to help you manage your PDF sharing needs . Follow up as needed and track down who has accessed the document and follow it up .",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": " Test your knowledge about saving, converting, and exporting PDFs . Dive into real-world scenarios and answer intriguing questions . See if you have what it takes to be a true PDF exporting pro .",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": " The Autosave feature is disabled by default in Acrobat . Yes or No: Can you export a PDF to XML format using Acrobat? Can you use the Snapshot tool to copy selected content as an image?",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": " Comments are notes and drawings that communicate ideas or provide feedback for PDFs . In Acrobat Reader, complete commenting tools are available only in PDFs with commenting enabled . Annotations and markup tools don\u2019t appear by default except when you open a PDF in a review .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": " Use the Add text comment tool to create a box that contains text . You can add comments to Japanese, Chinese, and Korean text with the Text Box tool . Text box remains visible on the document urchan page; it doesn\u2019t close like a pop-up note .",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": " Use the Add text comment tool to type text anywhere on the PDF page . To change the text formatting, double-click the added text comment to select the font, text alignment, and other text formatting you want .",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": " The moment you use @mention in a PDF file, the review mode gets enabled for you . The reviewers get an invitation  with a link to the Document Cloud shared review file . Sharing reviews are the most collaborative form of review because participants can read and reply to the comments of other participants .",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": " You can use the Select text or Markup tools to add markups to your text . Highlight, strikethrough, or underline text can be added using the Markup tool .",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": " In Acrobat for Windows, you can export text edits directly to the Microsoft\u00ae Word document that the PDF is based on to revise the source document . To use this feature, you must use PDFMaker in AutoCAD to convert your file from Word to PDF .",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": " Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML forms . XML digital signatures ensure integrity, authentication, and non-repudiation in documents . XML signatures only have two data verification states, valid and invalid . The invalid state is called when a user alters the XML-signed content .",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": " Signing a component PDF locks the PDF for editing and secures its content . You can sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously . The most significant signature appears in a Signature badge in the toolbar .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": " Adobe LiveCycle Rights Management (ALCRM) servers let you define centralized policies to control access to documents . Use ALCRM servers to set permissions for separate document tasks, for example opening, \u00a0editing, and printing .",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": " There are two methods to apply fields: Simple Authoring is loaded by default in most instances . Advanced Authoring can be enabled by clicking the toggle in the upper right corner of the document .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": " Sign action is assigned by default . Sign action allows the participant to enter field data and sign the agreement . Email is the default authentication method for confirming the identity of each participant . Password authentication can be added to increase security .",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": " This mode provides simplified authoring with the capability of assigning fields to multiple signers . When you select a signer from the right pane and add fields, the fields are assigned to the signer . That means those fields will be available to the signer for filling the information and signing .",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": " You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console . Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant . You can choose to either select the users to assign or create product profiles .",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": " Your team members receive an email notification when the product is provisioned to their account . They can select the link to launch Acrobat to access AI Assistant for Acrobat . To check your subscription is activated, select Refresh on the AI Assistant .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": " GenAl Assistant allows users to process up to 10 documents simultaneously, including non-PDF formats . Each document is up to 600 pages and 100MB . Users can switch between documents, with responses consolidated from various sources . Persistent history support is also included to provide continuous access to previous interactions .",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " Acrobat is the default PDF viewer in Microsoft Teams . You can access the list of meeting transcripts from Acrobat Home in Teams . Each meeting in the list includes information such as name, organizer, date, time, time and duration .",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment  with strict access controls . Content is only retained for . purposes that do not include training a Large Language Model (\u201cLLM\u201d) Examples of product improvement include improving the operability of generative AI in Acrobat .",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": " Generative AI features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files . The capabilities improve comprehension and save time across various document types .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " Acrobat allows you to send your completed forms to others and securely save them in Adobe Cloud storage . The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill and Sign PDF Forms \nYou can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types \nof PDF forms",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms . The tools are enabled for the current form only . When you create a different form, redo this task to enable the tools .",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": " Using the Edit Object tool, you can save objects into a separate PDF . Export objects to separate PDFs using the Edit object tool . The tool is available in the App Store and App Store's App Store .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": " Using the Select tool, draw a rectangle, right-click, and select Take a Snapshot . You can use the Snapshot tool to copy all selected content (text, images, or both) to the clipboard . Text and images are copied as an image .",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": " Use the Select tool to copy and paste individual images from a PDF to a new file or a clipboard . Use the Make Select tool in Windows or MacOS to select images before text . Copy and paste images from PDF to clipboard, another application, or file .",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": " You can save your changes to an Adobe PDF or PDF Portfolio in the original PDF or in a copy of the PDF . You can also save individual PDFs to other file formats, including text, XML,  HTML, and Microsoft Word .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": " You can export a PDF to PostScript for printing and prepress applications . You can also create an EPS file from any PDF for placement or opening in other applications . The options available depend on whether you're converting a document to PS or EPS .",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": " Select content and save it as a Word document, Excel spreadsheet, or comma-separated document . Convert selected content to other formats by exporting a selection . For example, you can save selected content as Word document or Excel spreadsheet .",
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": " Check the accuracy of optical character recognition (OCR) output before editing a scanned PDF . Revert to the original document if any issues arise during the editing process . Use the Scan & OCR tool to recognize text, change OCR language and make all pages editable in one go .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": " The language is set to the default locale, and the other options are disabled . Any  changes to these settings are persisted and are applied when you edit the document . The new text matches the original font in your scanned PDF .",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": " You can add or insert new text into a PDF using any of the fonts installed on the system . The Add text tool intelligently detects the following text properties of text close to the point of click .",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": " Acrobat automatically runs OCR to make the text and images editable . You can correct typos, change fonts and typeface size, adjust alignment, add content, redact and convert documents to PDF forms .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": " You can add items to a numbered or bulleted list, create list items, convert a paragraph to a list item, and change list types . You can also change font color and add or remove items to the list at all nested levels .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": " Some PDFMaker settings are common to several or most applications . Some options are unique to a specific application . The following settings appear on the Settings tab available from within most PDFMaker-enabled applications .",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": " In many authoring applications, you can use the Print command to convert your file to PDF . For Microsoft Office documents, the Adobe PDF printer does not include some of  the features that are available from PDFMaker . For example, you cannot create bookmarks and hyperlinks .",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": " The following options appear when you open the PDFMaker settings from within Microsoft or Lotus Notes . Use the most recent version (in this case, version 1.7ADBE-3) to include all the latest features and functionality .",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": " The Advanced Settings button opens the Adobe PDF Settings dialog box . These conversion settings apply to all Acrobat features that create PDFs, such as Acrobat Distiller, PDFMaker, and the Acrobat application itself .",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": " PDFMaker generates PDF mail merges using Auto Send Adobe PDF files by email . If you selected Automatically Send PDF Files By Email, a dialog box appears asking for your email profile . Type the text that you want to appear in the subject line of each email message .",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": " With Acrobat PDFMaker, you can save steps by using a Word mail merge document and a corresponding data file to output mail merges directly to PDF . You can even set up PDFMaker to attach PDFs to email messages generated during the PDF-creation process .",
+      "page_number": 27
+    }
+  ]
+}

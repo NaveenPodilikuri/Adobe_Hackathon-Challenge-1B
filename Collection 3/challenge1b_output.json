@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Lunch Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf"
+    ],
+    "persona": "Busy Parent",
+    "job_to_be_done": "Plan balanced weekly meals for a family with dietary preferences"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Page 10",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Page 16",
+      "importance_rank": 2,
+      "page_number": 16
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 1,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Page 15",
+      "importance_rank": 3,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Page 7",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Page 8",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Page 2",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Page 12",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Page 10",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Page 8",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Page 5",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Page 14",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Page 3",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Page 1",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Page 11",
+      "importance_rank": 2,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Page 9",
+      "importance_rank": 3,
+      "page_number": 9
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": " Ingredients: 1 croissant, 1 large egg, 1 slice of cheese, 1 sliced ham or bacon, 1 cup of shredded cheese . 1/2 cup cooked quinoa, black beans, avocado, 1/4 cup cherry tomatoes, 1 tablespoon olive oil . 1 tablespoon of olive oil, salt and pepper to taste, drizzle with olive oil and season with salt .",
+      "page_number": 10
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": " Cottage cheese, cucumber, cherry tomatoes, and bell pepper combine in a bowl . Almond butter and Apple Slices are then served with almond butter and sliced apple slices . Cottage Cheese and Veggie Bowl is a healthy bowl of cottage cheese and vegetables .",
+      "page_number": 16
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": " Breakfast Sandwich: English mu\ufb03n, split and toasted, toasted . Breakfast Quesadilla: 1 large egg, cheese, 1 slice of ham or bacon . Chia Pudding: 1/4 cup chia seeds, almond milk, honey or maple syrup, 1/2 teaspoon vanilla extract .",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": " Ingredients: Turkey and Apple Sandwich, tuna, cucumber, tomatoes, olives and feta cheese . Mashed chickpeas, spinach, carrots, tahini, lemon juice, olive oil, salt and pepper to taste .",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": " Ingredients: eggs, mayonnaise, Dijon mustard, celery, Dischewhew mustard, Diolo and celery . Pasta, tomatoes, cucumber, olives, and feta cheese combine in a large bowl . Drizzle with olive oil and red wine vinegar . Season with salt and pepper to taste .",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": " Chickpea and Avocado Sandwich: Avocado, chickpeas, cherry tomatoes, cucumber, red onion, olives, feta cheese, olive oil and red wine vinegar . Turkey and Cranberry Wrap: 1 whole wheat tortilla, 4 slices turkey breast, 2 tablespoons of cranberry sauce, 1 cup baby spinach, 1/2 cup shredded carrots .",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " Ingredients: 1 pound chicken breast, 1/2 pound sausage, sliced, and shrimp . 1 can (14.5 ounces) diced tomatoes, 1 cup long-grain rice, paprika, thyme, salt, salt and pepper to taste . 2 tablespoons olive oil, 2 teaspoons of b\u00e9chamel sauce, grated Parmesan cheese, and 1 teaspoon of cayenne pepper .",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " Ingredients include ground beef, ground pork, sliced onion, minced garlic, breadcrumbs, beaten egg, ketchup, Worcestershire sauce, salt, and pepper . Ingredients: 1/2 pound chicken breast, shrimp, mussels, small onion, small garlic, small bell pepper, short-grain rice, chicken broth, white wine, saffron, paprika, salt and pepper to taste .",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " Pork Chops with Apples with apples, sliced onion and sliced apples . Ratatouille with eggplant, zucchini, bell pepper, tomatoes, and bell pepper . Poultry, shrimp, mussels, cooked chicken, simmer for an additional 10 minutes .",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " Ingredients: 1/2 cup basil pesto and 1/4 cup cherry tomatoes, halved, 1/ 4 cup grated Parmesan cheese, 2 tablespoons olive oil, 2 teaspoons of vegetable oil and 2 tablespoons of pepper to taste . Beef and Broccoli can be cooked in a large skillet . Chicken Fajitas can be made with beef and broccoli .",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " Ingredients: ground turkey, diced onion, minced garlic, breadcrumbs, beaten egg, grated Parmesan cheese, oregano, basil, salt, and pepper . Marinara sauce simmer for 20 minutes until meatballs are cooked through . Vegetable Stir-Fry: 1 cup broccoli florets, 1 cup bell peppers, sliced, and snow peas .",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " Chicken Stir-Fry: 1 pound chicken breast, broccoli florets, 1 cup bell peppers, 2 tablespoons of soy sauce, oyster sauce, sesame oil, cornstarch, and water for rice . Coq au Vin: 1 small onion, diced, minced garlic, 2 cloves garlic, minced . 1 cup frozen peas and carrots, thyme, rosemary, salt, and pepper to taste .",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " The recipe includes stuffed chicken breasts, stuffed with spinach, feta cheese, and garlic . Pork is cooked in a slow cooker with barbecue sauce, chicken broth, brown sugar, and smoked paprika . Lasagna noodles are cooked with a zucchini and vegetables .",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " Quiche Lorraine is a quiche made of bacon, eggs, bacon, onion, and Gruy\u00e8re cheese . Ramen is a dish made of ramen noodles, pork belly, eggs and vegetables .",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " Peking Duck, pork Schnitzel and pork cutlets are easy to make . Peking duck is served with sliced green onions and mandarin pancakes . Pork Schnitzels are also served with lemon slices and green onions .",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " Bratkartoffeln (Fried Potatoes) and Briouats (Briouats) are the most popular dishes in the world . The recipes include fried potatoes, zucchinis, eggplants, tomatoes, garlic, and ground beef .",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " Caprese Salad: 4 tomatoes, 1 pound fresh mozzarella, 1/4 cup basil, 1 tablespoon balsamic glaze, 1 teaspoon salt . Carrot Salad: Carrots, raisins, parsley, lemon juice, olive oil, cumin, and salt . Ceviche: 2-3 Thai chilies, fish sauce, sugar, and bean sprouts .",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " Ingredients include ground beef, chopped parsley, cumin, cinnamon, salt, pepper, and parsley . 1 package of phyllo dough, 1/4 cup butter, oil for frying, and 1 teaspoon salt for frying .",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": " Saut\u00e9 diced bacon, onion, minced garlic in butter until crispy . Add cassava flour and cook, stirring constantly, until golden . Stir in chopped parsley and salt to make salad . Add chopped parsleys and mint to the salad . Toss well and serve well .",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": " Green Bean Casserole, Greek salad, guacamole and guacameole are easy to make . Serves 45 minutes until golden and bubbly, then serve warm . Green beans and fried onions are cooked in a baking dish .",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": " Ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame oil for frying . Edamame (soybeans in pods) steamed or boiled edamame until tender (about 5 minutes)",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": " Ingredients: 2 cucumbers, 2 cloves garlic, 1-2 Thai chilies, 1/4 cup water, 1 tablespoon gochugaru (Korean chili powder) and 1 tablespoon sesame seeds . Dipping sauce is a dipping sauce . Rice Balls are rice balls .",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": " Roast vegetables with garlic, jerk seasoning, olive oil, and olive oil . Roast at 400\u00b0F (200\u00b0C) until tender . Cooks rice, tomatoes, tomato paste, thyme, curry powder, salt, pepper .",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": " Ingredients: 1 pound dandelion greens, 1/4 cup olive oil, 1 cup lemon juice, 1 teaspoon salt, 1 tablespoon cornstarch, 2 tablespoons rice vinegar and 1 teaspoon chili paste . 1 teaspoon turmeric and 1 tablespoon of water added to the soup .",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": " Ingredients: 1 baguette, 4 tomatoes, 2 cloves garlic, 1 teaspoon salt, 1 cup water, 1 egg, 1 tablespoon soy sauce, 1/2 cup sesame oil, 1 tablespoons of fish sauce and 1 tablespoon lemon juice .",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": " Ingredients: 1/2 pound kefalotyri cheese, 1 small red onion, 1/4 cup sugar, 1 teaspoon salt, 1 tablespoon of Dijon mustard and 1 teaspoon pepper . Salade Ni\u00e7oise: 4 tomatoes, cucumber, onion, green beans, olives, and tuna .",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": " Ingredients: 1 pound pork shoulder, 1/2 cup white wine, 1 teaspoon thyme, salt, pepper, and 1 teaspoon salt . 1/4 cup olive oil, 4 cups of chicken broth, lentils, 4 pieces of flatbread, and 4 teaspoons of salt . Rice and Peas are easy to make .",
+      "page_number": 9
+    }
+  ]
+}

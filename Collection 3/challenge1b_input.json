@@ -1,0 +1,23 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "meal_planning_collection"
+  },
+  "documents": [
+    { "filename": "Breakfast Ideas.pdf", "title": "Breakfast Ideas" },
+    { "filename": "Lunch Ideas.pdf", "title": "Lunch Ideas" },
+    { "filename": "Dinner Ideas - Mains_1.pdf", "title": "Dinner Mains 1" },
+    { "filename": "Dinner Ideas - Mains_2.pdf", "title": "Dinner Mains 2" },
+    { "filename": "Dinner Ideas - Mains_3.pdf", "title": "Dinner Mains 3" },
+    { "filename": "Dinner Ideas - Sides_1.pdf", "title": "Dinner Sides 1" },
+    { "filename": "Dinner Ideas - Sides_2.pdf", "title": "Dinner Sides 2" },
+    { "filename": "Dinner Ideas - Sides_3.pdf", "title": "Dinner Sides 3" },
+    { "filename": "Dinner Ideas - Sides_4.pdf", "title": "Dinner Sides 4" }
+  ],
+  "persona": {
+    "role": "Busy Parent"
+  },
+  "job_to_be_done": {
+    "task": "Plan balanced weekly meals for a family with dietary preferences"
+  }
+}
